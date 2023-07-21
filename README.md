@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a programmer who has the ability to learn new things. I am good at PHP, Javascript, JQuery, Ajax, Node.js, REST APIs, RESTful Service, Vue.js, Java, HTML, and CSS. The frameworks that I have just mastered are Laravel, Bootstrap, Tailwind CSS, EasyUI, Cordova, and MobileUi. The database that I just mastered is MySQL, and PostgreSQL.
+I am a programmer who has the ability to learn new things. Professionally, I am very skilled in creating applications with Laravel web PHP and JavaScript, JQuery, Ajax, and JSON, as well as using the Rest API. Expertise in developing user interfaces with HTML, CSS, and JavaScript. Expertise in a solid understanding of MySQL, PostgreSQL, and SQL Server I also have good health by being friendly, polite, adaptable, easy to get along with others, hardworking, working under pressure, responsible, and able to work independently as well as in a team. Proven team players when working with internal cross-functional departments.
+
+<!-- I am a programmer who has the ability to learn new things. I am good at PHP, Javascript, JQuery, Ajax, Node.js, REST APIs, RESTful Service, Vue.js, Java, HTML, and CSS. The frameworks that I have just mastered are Laravel, Bootstrap, Tailwind CSS, EasyUI, Cordova, and MobileUi. The database that I just mastered is MySQL, and PostgreSQL. -->
 <!--
 **syarifhidayat-id/syarifhidayat-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
